@@ -2,8 +2,6 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 
 import Component1 from "./components/component-1.vue";
 import Component2 from "./components/component-2.vue"
-import App from "./App.vue"
-
 
 
 const routes = [
