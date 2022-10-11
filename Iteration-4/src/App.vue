@@ -10,8 +10,8 @@
 </template>
 
 <script setup>
-import Composition from './components/component-1.vue';
-import Options from './components/component-2.vue';
 import Navbar from './components/Navbar.vue';
+
+
 </script>
 
